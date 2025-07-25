@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/MyProfile.png" alt="Krishna Preetham Header" />
+  <img src="MyProfile.png" alt="Krishna Preetham Header" />
 </p>
 
 <h1 align="center">Hey there, I'm Krishna Preetham 👋</h1>
