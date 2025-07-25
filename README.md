@@ -2,8 +2,9 @@
 <h3 align="center">AI Engineer | Full-Stack Developer | LLM Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=16C3E2&center=true&vCenter=true&width=435&lines=Engineering+Intelligence+%7C+AI-powered+Solutions;Turning+Ideas+into+Deployable+Apps;FastAPI+%7C+LLMs+%7C+Vision+AI+%7C+SvelteKit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=16C3E2&center=true&vCenter=true&width=600&lines=Engineering+Intelligence+%7C+AI-powered+Solutions;Turning+Ideas+into+Deployable+Apps;LLMs+%7C+RAG+%7C+Groq+%7C+Transformers;Deep+Learning+%7C+Vision+AI+%7C+Model+Deployment" alt="Typing SVG" />
 </p>
+
 
 ---
 
