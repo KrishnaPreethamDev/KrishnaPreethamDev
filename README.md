@@ -85,8 +85,9 @@
   <a href="https://github.com/KrishnaPreethamDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:t.krishnapreetham14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://krishna-preetham-building-ideas-into-code.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logoColor=white"/>
 </a>
+
 
 ---
 
