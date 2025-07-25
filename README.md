@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=16C3E2&center=true&vCenter=true&width=600&lines=Engineering+Intelligence+%7C+AI-powered+Solutions;Turning+Ideas+into+Deployable+Apps;LLMs+%7C+RAG+%7C+Groq+%7C+Transformers;Deep+Learning+%7C+Vision+AI+%7C+Model+Deployment" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -34,21 +33,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Languages and Tools
 
-**Languages**  
-`Python` | `C` | `Java`
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java&theme=light" />
+</p>
 
-**Frameworks / Tools**  
-`FastAPI` | `Flask` | `Django` | `SvelteKit` | `TailwindCSS`  
-`PostgreSQL` | `SQLite` | `PyTest` | `Vitest`
+### 🌐 Front-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light" />
+</p>
 
-**AI/ML Tools**  
-`TensorFlow` | `PyTorch` | `OpenCV` | `YOLOv5`  
-`HuggingFace Transformers` | `Groq API` | `RAG`
+### 🖥️ Back-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask&theme=light" />
+</p>
 
-**Other Tools**  
-`Git` | `GitHub` | `VS Code` | `Jupyter` | `PyCharm`
+### 🧠 AI/ML Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+</p>
+
+### 🗃️ Databases & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode&theme=light" />
+</p>
 
 ---
 
@@ -67,16 +77,18 @@
 
 ---
 
-## 📫 Reach Me At
+## 🔗 Connect with Me
 
-- 📧 t.krishnapreetham14@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/t-krishna-preetham-901058272/)  
-- 🎨 [Portfolio](https://krishna-preetham-building-ideas-into-code.onrender.com/)  
-- 💻 [GitHub]([https://github.com/krishnapree](https://github.com/KrishnaPreethamDev))
+<p align="left">
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/t-krishna-preetham-901058272/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/krishnapree" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:t.krishnapreetham14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://krishna-preetham-building-ideas-into-code.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
 I reverse-engineer video streams for fun, automate tiny tasks with Python, and occasionally teach my AI models sarcasm. 😉
-
