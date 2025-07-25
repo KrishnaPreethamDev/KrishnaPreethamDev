@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/KrishnaPreethamDev/KrishnaPreetham/blob/main/Screenshot 2025-07-25 141610.png" alt="Banner" />
-</p>
-
 <h1 align="center">Hey there, I'm Krishna Preetham 👋</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | LLM Enthusiast</h3>
 
